@@ -1,0 +1,256 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Silent meeting, a wonder to the world, yet practised by the apostles and owned by the people of God, scornfully called Quakers</title>
+            <author>Britten, William, d. 1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1671</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29604</idno>
+            <idno type="STC">Wing B4826</idno>
+            <idno type="STC">ESTC R9144</idno>
+            <idno type="EEBO-CITATION">12924745</idno>
+            <idno type="OCLC">ocm 12924745</idno>
+            <idno type="VID">95481</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29604)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95481)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 732:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Silent meeting, a wonder to the world, yet practised by the apostles and owned by the people of God, scornfully called Quakers</title>
+                  <author>Britten, William, d. 1669.</author>
+                  <author>Fox, George, 1624-1691. Concerning gathering in the name of Jesus.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1671.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. 15: William Britten.</note>
+                  <note>"Concerning gathering in the name of Jesus" [by] G.F.: p. 15-16.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Doctrines --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95481:1"/>
+            <pb facs="tcp:95481:1" rendition="simple:additions"/>
+            <p>Silent Meeting A WONDER To the VVORLD; Yet Practiſed by the <hi>APOSTLES,</hi> And Owned by the <hi>PEOPLE</hi> of <hi>GOD, ſcornfully called</hi> QUAKERS.</p>
+            <p>Printed in the Year, 1671.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:95481:2"/>
+            <pb n="3" facs="tcp:95481:2"/>
+            <head>Silent Meeting A <hi>WONDER to the WORLD,</hi> &amp;c.</head>
+            <opener>
+               <salute>READER;</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Aving formerly paſſed through a twofold Miniſtry; <hi>First,</hi> As a Gifted man in the National.</p>
+            <p>
+               <hi>Secondly,</hi> As a Baptiſt; and now brought to wait on God in ſilence, it is a wonder to many; upon which the Lord hath led me forth to publiſh this Paper, and make it a free gift unto thoſe who deſire ſome ſatisfaction concerning <hi>Silent Meeting,</hi> in which I wait on God for a Purer Miniſtry, if he pleaſe to bring me unto it; or if I fall ſhort (like <hi>Moſes</hi> to dye in Mount <hi>Nebo, Deut.</hi> 32.49.) and only ſee it afar off, his bleſſed will be done.</p>
+            <p>I preaching firſt in the National Miniſtry for hire, ſelling my Ser<g ref="char:EOLhyphen"/>mons at my beſt Market, and afterwards being took off from that Merchandizing, becoming a Baptiſt, and preaching freely without ſelling, did now think my ſpiritual condition to be very good; but the Eternal God,<note place="margin">
+                  <hi>Jer.</hi> 48.11.</note> who empties from veſſel to veſſel, to take away all the carnal taſte, did not ſuffer me many years in this eſtate; who by a further diſcove<g ref="char:EOLhyphen"/>ry of himſelf, brought me back to ſilence, that I ſhould wait with the deſpiſed remnant, called <hi>Quakers.</hi>
+            </p>
+            <p>And as one alone from the tumult, or outſide of a wood, can eaſily hear the clamours and outcries within; ſo I being come forth of the Forms and Foreſts of the world, unto a holy ſilence, by the power of Jeſus Chriſt within me, could the better diſcern to ſee and view the various Sects and Forms in their Congregations, how un<g ref="char:EOLhyphen"/>like
+<pb n="4" facs="tcp:95481:3"/>
+the moſt part were unto the true ſpouſe of Chriſt; which with a heavy burden on my ſpirit, I beheld their Parochial Aſſemblies to appear ſomething like <hi>Nebuchadnezzars</hi> Image in the golden head, <hi>Dan.</hi> 2. but upon a through obſervation in the Life, Fruits, and Con<g ref="char:EOLhyphen"/>verſation, as the iron and clay; barren, fruitleſs and empty, having the imitations and forms of Godlineſs, but denying the power of Chriſt, in leading forth the Creature.</p>
+            <p>When thus, like the returning Prodigal, (<hi>Luke</hi> 15.17.) I came to look on my ſelf within, I ſaw how I had ſed on husks; but God (my Father) had bread enough: And al hough Arts, Scien<g ref="char:EOLhyphen"/>ces, teaching for hire, getting of mony, with ſuch carnal delights, quieted fleſh a while, as a Rattle or Pipe doth a Child, for a time, without the breaſt; yet now that immortal part ſeeing its emptineſs, and coming to the true hunger and thirſt after righteouſneſs; no<g ref="char:EOLhyphen"/>thing but an eternal God would ſatisfie, to give that bread, fleſh, and drink of Life, (<hi>John</hi> 6.51, 53.) whereby a poor ſoul may grow in grace, and in the knowledge of God: But thoſe that live and de<g ref="char:EOLhyphen"/>pend only upon outward Forms, and viſible Things, the ſame deceive thouſands, who thereby fall ſhort of what they imagine.</p>
+            <p>I now ſee that he is no true Miniſter of Jeſus Chriſt, but who is led forth by his Spirit, and ſuch we rejoyce to hear declaring the things of God: Otherwiſe upon meeting we ſit ſilent with the tongue, yet having a heart full of praiſes, where we worſhip God in Spiri and in Truth,<note place="margin">
+                  <hi>John</hi> 4.24. 2 <hi>Cor.</hi> 6.16.</note> who makes our bodies Temples for the ſame Spi it: not ſpeak<g ref="char:EOLhyphen"/>ing by hear-ſay, and humane Ar<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, but lay all that down: when earthly thoughts, ear hly words, and earthly works are all laid aſide, and the Temple within us is ready, the Light of Chriſt ſhining in it, and the Lord, with a further manifeſta ion of his Love, enters it by his Eternall Power: whereupon we can truly ſay, That the Lords preſence is amongſt us, feeding of his Flock, and making us feel the power of an endleſs Life</p>
+            <p>As one muſt come forth of the houſe, which intends to ſee it round about, ſo we, in obedience to God, being ſeparate and come forth from the world, can the better ſee how the ma<g ref="char:EOLhyphen"/>jor part of the People come o their Wo ſhip as to a Market,<note place="margin">2 <hi>Cor.</hi> 6.17.</note> dreſt up in their faſhions, with their tongues in carnal diſcourſe, both going thither and returning back, the eye gazing upon vanity and filth, the ear ready to receive ſuch ſtuff as de<g ref="char:EOLhyphen"/>files,
+<pb n="5" facs="tcp:95481:3"/>
+and the heart as an Anvil to forge within; whereby they come, not enquring like the Sſpouſe of Chriſt, <hi>Cant.</hi> 1.7. or as a People to do the work of God; as a true Wiſe to rejoyce in her Husband; but as an Harlot that wantons and ſports her ſelf: yea, if they ſtay a while for their coming to<g ref="char:EOLhyphen"/>gether, what ſcoffing, playing, quarreling, carnal talk, un<g ref="char:EOLhyphen"/>ſeemly behaviour, and ſinful actions are taken up amongſt them, woful experience can teſtifie?</p>
+            <p>And among ſuch People I poor wretch did once ſpend ſome time, ſeeing them words, which they paid for, but did not keep them; uſing pleaſing expreſſions, and ſpeaking by hear-ſay (as others did) and not upon experience from Chriſt within me, but by imitation, as Players on a Stage, aſſume the Name, and act the Perſons of Princes, Nobles, <hi>&amp;c.</hi> but being come off and unmasked, they are no ſuch men: yea, I was per<g ref="char:EOLhyphen"/>ſwaded <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen, that fleſh muſt ſin, and have its luſts fulfilled, while I wa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the body, not ſeeing that all filthineſs of fleſh and ſpirit muſt be cleaſed, or elſe holineſs cannot be perfected in the fear of God;<note place="margin">2 <hi>Cor.</hi> 7.1.</note> and with com<g ref="char:EOLhyphen"/>fort I write this Truth, That I have found and felt more of the Lords preſence in one Silent Meeting, than I have done in a hundred Sermons preached by me in times paſt, and though then I did deliver them with much zeal. But this is,</p>
+            <p>
+               <hi>A WONDER TO THE WORLD,</hi>
+            </p>
+            <p>Who have <hi>given their money for that which is not bread;</hi> Iſa. 55.2. buying the Letter of their P ieſts, that chide them for ſinning, yet ſay, They muſt continue ſinner while they are in this Body; telling the People, that God muſt do all for them and in them; yet bid the ſame People to get Faith, get Re<g ref="char:EOLhyphen"/>pentance, <hi>&amp;c.</hi> ſo that the new Creation, in making a New Creature, is a Myſtery unto them that are thus ignorant, 2 <hi>Cor.</hi> 5.17. which affirm, that People muſt live in ſin until they die; as if God had laid a neceſſity upon the Creature to offend him; therefore they own no Light with<g ref="char:EOLhyphen"/>in, nor Power of Chriſt within,<note place="margin">2 <hi>Cor.</hi> 10. <hi>v.</hi> 5.</note> whereby to bring each thought in obedience, but rather like the <hi>Athenians,</hi> they mock at what they under<g ref="char:EOLhyphen"/>ſtand not, <hi>Acts</hi> 17.18.</p>
+            <p>
+               <pb n="6" facs="tcp:95481:4"/>Take heed therefore, both you that ſell Scripture Letter for money, and you Hearers which think you buy it; for thus <hi>Simon</hi> the Sorcerer thought with his money to purchaſe the Gift of God, but his deceit deceived himſelf, and he went with<g ref="char:EOLhyphen"/>out it, <hi>Acts</hi> 8.20. And do not think, that ſpeaking, hearing, and reading the Scriptures, ſufficeth to make you wiſe unto Salvation, 2 <hi>Tim:</hi> 3.15. but conſider how it muſt be <hi>by faith in Chriſt Jeſus:</hi> So except Chriſt in Spirit be within to work Faith and Obedience, the ſeeing, hearing, or reading the Let<g ref="char:EOLhyphen"/>ter avails little without us: for the Letter of former Scri<g ref="char:EOLhyphen"/>ptures, the Scribes, Phariſees, and perſecuting Prieſts had, who crucified Chriſt; as many now have the Letter alſo, yet to little purpoſe, whileſt they ſeek to deſtroy the works of the Spirit. Nor doth Chriſt ſay, That there is Eternal Life in the Scriptures, <hi>John</hi> 5.39. but reproves the Jews, who thought ſo, yet would not own him who was the ſubſtance of all.</p>
+            <p>Look therefore, by the <hi>Light of Chriſt within you</hi> unto whom ye yeild your ſelves in your members to obey, as eyes to ſee, ears to hear, tongues to ſpeak, hearts to think, <hi>&amp;c.</hi> for therein you are ſervants,<note place="margin">
+                  <hi>Rom.</hi> 6.13, 16.</note> whether in power for doing good, or under the Devils power by living in ſin: and whether you live after the fleſh in the Devils power, or after the Spirit in Gods power, may be eaſily known by the mind within of each man and wo<g ref="char:EOLhyphen"/>man: for upon what the mind is carried with moſt eagerneſs, joy and delight, in earthly things, or upon heavenly things, in that eſtate you are at preſent, of fleſh or Spirit, either for Hea<g ref="char:EOLhyphen"/>ven or Hell, <hi>Rom.</hi> 8.5, 6, 7. Yet I adviſe you not to take up this or that outward Form, but to ſeek for that Pearl, and ſell (or part with) all earthly affections to buy or obtain it, <hi>Mat.</hi> 13.45. even that Kingdom of God to be within your ſelves which is in the Sanctified ones: for God mani<g ref="char:EOLhyphen"/>feſts himſelf in the Creature,<note place="margin">
+                  <hi>Luke</hi> 17.21.</note> making his People <hi>Partakers of the divine nature,</hi> 2 Pet. 1.4. cau<g ref="char:EOLhyphen"/>ſing things inviſible to be underſtood, even his Eternal Power, <hi>&amp;c.</hi> So that he <hi>leaves man without excuſe, Rom.</hi> 1.20. and for that Spirit which leads into theſe Truths we ſilently wait. And this was,</p>
+            <p>
+               <hi>Practiſed by the Apoſtles,</hi> Who had from Chriſt two diſtinct
+<pb n="7" facs="tcp:95481:4"/>
+Commiſſions for going forth to preach: The firſt from Chriſt in the fleſh before his death, <hi>Luk.</hi> 9.1, 10. which laſted but a time for although they could <hi>caſt forth devils,</hi> while it held, yet being ended, they could not do it, <hi>Luke</hi> 9.40. and in this they went only to the Jews, <hi>Mat.</hi> 10.5.</p>
+            <p>The ſecond Commiſſion was to all Nations, <hi>Mat.</hi> 28.19. both to Jews and Gentiles; given them by a riſen Chriſt, and confirmed by the Holy Ghoſt, or Chriſt in Spirit, about Fifty dayes after, <hi>Act.</hi> 2.1. during which time, although thay prayed, yet they did not go forth to preach unto the people, until they had that Spirit which they were commanded to wait for, <hi>Act.</hi> 1.14. <hi>Epheſ.</hi> 1.13. as the Seal of their Commiſſion, <hi>Acts.</hi> 1.4. So they were ſilent, as unto Preaching, wherein they waited for that which ſhould lead them into all Truth, <hi>John</hi> 16.13. Whence note, It was not the Letter, or Chriſt in the fleſh, that Jeſus ſaid ſhould do it, but him in Spirit, who promiſed his Diſciples to come again unto them, <hi>John</hi> 14.28. <hi>John</hi> 16.22. and although he came again to them after he was riſen from the dead: yet in the ſeveral Promiſes, we may ſee how it was the Holy Ghoſt, or Chriſt in Spirit ſhould lead them into all Truth, and bring all things to remembrance; and make them able Mi<g ref="char:EOLhyphen"/>niſters of the Spirit, <hi>John</hi> 14.26. 2 <hi>Cor.</hi> 3.6. And ſuch the Holy Ghoſt teacheth, <hi>Luke</hi> 12.12. yea, it is ſaid, The Holy Ghoſt ſpeaketh, <hi>Mark</hi> 13.11. And the Spirit ſpeaketh in them, <hi>Mat.</hi> 10.20. And what injuries are done to them is taken to himſelf, <hi>Matth.</hi> 25.41.</p>
+            <p>Thus being at <hi>Jeruſalem, all in one place, with one accord,</hi> (as they were commanded to wait) <hi>Acts</hi> 1.4. <hi>Acts</hi> 2.1. in that Silent Meeting they received what they had waited for, which made them able Miniſters of the Goſpel: and then <hi>Peter</hi> began to ſpeak, <hi>Verſe</hi> 14. This being the order of their ſecond Commiſſion, and is to hold unto all that look for Chriſts ſpi<g ref="char:EOLhyphen"/>ritual coming into their fleſh to make them able Goſpel-Teachers, and their bodies a habitation and temple for the ſame Spirit, 1 <hi>Cor.</hi> 6.19. <hi>Epheſ.</hi> 2.22. Therefore it is not Chriſts ſpiritual coming in another Saints fleſh, which I feel, that gives me comfort; but when the ſame Holy Ghoſt, even Chriſt in Spirit dwelleth in my Body, I then can witneſs it, by his Eter<g ref="char:EOLhyphen"/>nal Power within, who is my Light and my Saviour. But this
+<pb n="8" facs="tcp:95481:5"/>
+is a ſtrong Leſſon to the world, who cannot receive or know this Spirit promiſed to be in the Saints, <hi>John</hi> 14.17. Yet this remember, that who hath not Chriſt in him, he is a Reprobate: 2 <hi>Cor.</hi> 13.5. Which Scripture-Truth, and Goſpel-Practice is,</p>
+            <p>
+               <hi>Owned by the People of God, ſcornfully called Q<g ref="char:V">Ʋ</g>A<g ref="char:EOLhyphen"/>KERS:</hi> Who coming like <hi>Solomon (Eccleſ.</hi> 2.) unto ſelf-experience, in ſeeing all our joyes, pleaſures, profits, or other things delightful to the fleſh, to be but vanity and vexation, we become ſilent thereunto, not anſwering, to obey the luſts of the carnal mind, but as dead to the world, that we may live unto God: Even then humane Prudence, in things of the Lord is laid in ſilence, and fleſhly glory is em<g ref="char:EOLhyphen"/>ptied forth; leaving off to love the world, or the things of the world (1 <hi>John</hi> 2.15.) as formerly; being as the great dung-hill for the true Convert to keep under his feet, and not magnified in his heart; knowing that every work and ſecret thing, both good and evil, muſt come to judgement, <hi>Eccleſ.</hi> 12.14.</p>
+            <p>In which holy ſilence, although the tongue ſpeakes not, yet the Spirit helpeth, <hi>Rom.</hi> 8.26. which the heart-ſearcher be<g ref="char:EOLhyphen"/>holdeth: the Body in <hi>Silent-Meeting</hi> reſting from labour (which is all the reſt in a carnal mans worſhip) but we go further, with a heart ſtriving to reſt from ſinful Imaginations, and entering upon a true reſt in God, of which we feel, ſee, and taſte in its beginnings, as an earneſt of our bleſſed Inheritance;<note place="margin">
+                  <hi>Rom.</hi> 8.23.</note> deſiring Chriſt may take the whole Dominion in us, to deliver from that bondage of corruption, by redeeming the Body from the ſame, which in part is begun, and ſhall be finiſhed when Chriſt is formed, <hi>Gal.</hi> 4.19. and the ſtrongeſt takes the whole poſſeſſion; but a time we muſt <hi>wait for this</hi> as at <hi>Bethſaidas</hi> Pool, until the Lord by his healing-water cures his poor wounded Creatures.</p>
+            <p>In conſideration of ſuch a ſpiritual Miniſtry, note three Things:
+<list>
+                  <item>1. <hi>The work of</hi> Moſes.</item>
+                  <item>2. <hi>Of Chriſt in the Fleſh.</hi>
+                  </item>
+                  <item>3. <hi>Of Chriſt in the Spirit.</hi>
+                  </item>
+               </list>
+               <hi>Firſt, Moſes</hi> believed and obeyed, ſeeing things afar off,
+<pb n="9" facs="tcp:95481:5"/>
+yet drank of the ſpiritual Rock that followed: but his work was not to hold unto the end in a Levitical Miniſtry, and pay<g ref="char:EOLhyphen"/>ing of Tithes, with material Temple-worſhip, <hi>&amp;c.</hi> for he ſhews how the Lord would raiſe him <hi>another Prophet</hi> to be heard, and who would not hearken to that <hi>Prophet</hi> (Chriſt Je<g ref="char:EOLhyphen"/>ſus) in all things, the Lord would puniſh, <hi>Deut.</hi> 18.15, 19. of whom <hi>Peter</hi> and <hi>Stephen</hi> ſpake the ſame, <hi>Acts.</hi> 3.22. <hi>Acts</hi> 7.38.</p>
+            <p>
+               <hi>Secondly,</hi> Note Chriſts work in the fleſh, who had a glory with God before the world was, <hi>John</hi> 17.5. but now aſſumed a body to ſatisfie for ſinners, and preached in that body, to be the Light, for enlightening the world, to make them ain<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, not as if they were ſuch, but that they might be forſhewing how his true Diſciples and followers ſhould forſake all to embrace him, <hi>John</hi> 1.9. and they belevied he was the Son of God: Yet then, (he being with them in his fleſh) they were ignorant of many things; as the Riſing from the dead, <hi>Mark</hi> 9.10. and underſtanding of the Scriptures, <hi>Luke</hi> 24.45. and of Chriſts Kingdom, thinking it ſhould be temporal in <hi>Iſrael, Acts</hi> 1.6. and of his Sufferings, before he entred into his glory, after his fleſhly manifeſtation. <hi>Luke</hi> 24.21, 26, Yea, <hi>John Baptiſt</hi> teſtifi<g ref="char:EOLhyphen"/>ed of Chriſt, yet afterwards ſent to know if it was he, <hi>Mat.</hi> 1.1, 3. Neither doth Chriſt ſay, that then in fleſh he told his Diſ<g ref="char:EOLhyphen"/>ciples all things, or lead them in to all things; but left that work unto his coming in ſpirit, <hi>John</hi> 16.13. <hi>John</hi> 14.16, 26. For, although in himſelf he had the Spirits fullneſſe, yet to be<g ref="char:EOLhyphen"/>lievers it ſhould not come untill he was gone away in fleſh, <hi>John</hi> 16.17. the veſſel of his body being broken, and the Un<g ref="char:EOLhyphen"/>ction thereof, to fill many therewith: where Note, As <hi>Moſes</hi> Miniſtry was now at an end, ſo alſo Chriſt in fleſh ſhould de<g ref="char:EOLhyphen"/>part, and Chriſt in ſpirit would come, to ſet up a Minſtry, and abide with Believers for ever, <hi>John</hi> 14.16. <hi>Heb.</hi> 13 8.</p>
+            <p>
+               <hi>Thirdly,</hi> Conſider Chriſts work in ſpirit, which is to abide for ever; But at this the Jews ſtumbled, thinking it was in fleſh he ſhould continue alwayes, and ſo they looked for a tem<g ref="char:EOLhyphen"/>poral Kingdom, and outward glory, <hi>John</hi> 12.34. as many aim at in theſe dayes: whereas his Kingdom is not of this world, <hi>John</hi> 18.36 neither are his Miniſters of the Letter, but of the Spirit, 2 <hi>Cor.</hi> 3.6. called New Teſtament (or new Covenant)
+<pb n="10" facs="tcp:95481:6"/>
+Miniſters, having that written in their hearts, before pro<g ref="char:EOLhyphen"/>miſed, <hi>Jer.</hi> 31, 3 3. <hi>Iſa.</hi> 54 13. <hi>John</hi> 6 45. who ſhould not ſearch Authours, Commentaries, Manuuſcripts, as a Shop book, for a Sermon, but ſpeak from the power of Chriſt with<g ref="char:EOLhyphen"/>in, as <hi>Paul</hi> did, <hi>Gal.</hi> 1.16 and the Apoſtles Acts 2. did, having the Word in the Mouth, and in the Heart, <hi>Rom.</hi> 10.8. For the Scriptures muſt be preached by the ſame Spirit that gave them forth, and not only by humane Learning, for fleſh is not able to comprehend the things of God; and who hath not this ſpirit is none of his, <hi>Rom.</hi> 8.9. from whence we may ſpeak boldly, That thoſe which have not this Spirit, to preach from it and by it, they are none of Chriſts: and by this Spirit they knew the things of God, who had received it, 1 <hi>Cor,</hi> 2.10.12, and this ſearcheth the deep things of God: So it is plain, that True Miniſters muſt have Chriſt in Spirit, who ſpeaks in Spi<g ref="char:EOLhyphen"/>rit, <hi>Mat</hi> 10.20, 40. And who heareth or deſpiſeth them is ſaid to do it unto Chriſt, <hi>Luke</hi> 10.16. Therefore we muſt pray God to ſend us ſuch, for men cannot do it by calling one ano<g ref="char:EOLhyphen"/>ther <hi>Bachelors,</hi> and <hi>Maſters,</hi> and <hi>Doctors</hi> upon humane Arts and Acts: which is like that of the Jews, <hi>John</hi> 5.44. where<g ref="char:EOLhyphen"/>in one man took honour of another: And take heed leſt it be with you as it was with <hi>Jeruſalem,</hi> of whom it is not ſaid ye <hi>could not,</hi> but, <hi>ye would not, Luke</hi> 13.34. A ſad condi<g ref="char:EOLhyphen"/>tion.</p>
+            <p>And now this 22th day of the 7th Month, the Word of the Lord came unto me, to warn all you in power; and you Na<g ref="char:EOLhyphen"/>tional <hi>Priests</hi> (or <hi>Miniſters</hi>) called <hi>Biſhops, Deans, Doctors,</hi> or inferior; and you that are <hi>Hearers,</hi> Know ye, that the Lord is pleading hi own cauſe, and hath a ſtrong controverſie with you; Therefore take heed what Miniſtry you plead for; and remember what I anſwered <hi>William Prynne; That there is no Goſpel-Plea for Tythes, nor forced Maintenance,</hi> &amp;c. To you that was; and this is, from the Lords Spirit by me his Meſſenger.</p>
+            <p>Now as the Apoſtles <hi>Silent Meeting</hi> was in expectation of the Spirit before promiſed; ſo God (in Scriptures) having ingaged himſelf, that in theſe latter dayes there ſhould be flow<g ref="char:EOLhyphen"/>ings forth thereof, we ſilently wait for it; and whoſo looks now for this promiſed Spirit (being a frequenter of <hi>Silent
+<pb n="11" facs="tcp:95481:6"/>
+Meetings</hi>) muſt in the power of Jeſus Chriſt, ſincerely ſtrive to have theſe three things in themſelves:
+<list>
+                  <item>1. <hi>A Spiritual Watch.</hi>
+                  </item>
+                  <item>2. <hi>A Spiritual Touchſtone.</hi>
+                  </item>
+                  <item>3. <hi>The Spiritual Scales.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>I ſay unto all, Watch,</hi> Mark 13.37. For you know not when the time of Tryal is, or when the coming of the Spirit ſhall be; it being <hi>as the wind, which bloweth where it liſteth, John.</hi> 3.8. For fleſh loves to break out, and have its will, and the luſts thereof; therefore the Spiritual watch muſt be truly kept within, to ſee and note what works are in hand, and what words are iſſuing forth, and what thoughts are in thee: But thoſe which keep not this Watch, do run haſtily upon action, and their tongues ſpeak unadviſedly, in haſty Queſtions and Anſwers, oftentimes proceeding to Paſſion and rage, like ſhort fits of madneſs, with their hearts wandring out after folly, and carnal objects; by which means many Profeſſors break forth into filth, yet ſay, <hi>They are Souldiers of Chriſt,</hi> but keep not a <hi>Spiritual Watch</hi> under him; ſo their Tongues are not bridled, nor have they learned to take heed unto their wayes, <hi>Pſal.</hi> 39.1.</p>
+            <p>Therefore, if thou ſeekeſt to reap the pure benefit of <hi>Silent Meetings;</hi> learn,</p>
+            <p>
+               <hi>Firſt,</hi> To come unto a <hi>Pure Silence</hi> in thine ovvn ſelf, which is to ſilence all in thee that is evil, by that Eternal Power of God; ſo thy Tongue, Heart, and Hands ſhall be under the faithful <hi>Watch,</hi> and the Actions without in the Body, with thy Actions within of thy mind, as <hi>Love, Joy, Deſire,</hi> &amp;c. will by degrees be all brought into <hi>true Obedience.</hi> Which <hi>Watch</hi> keeping according to thy meaſure (or Talents received) ſin ſhall not have dominion over thee; but thou wilt grow in Grace, and become a <hi>Conqueror</hi> in him that hath loved thee. Therefore remember what Chriſt ſpake to his Diſciples, was alſo to thee and me, <hi>Watch, Mark</hi> 13.37.</p>
+            <p>
+               <hi>Secondly,</hi> When the work, word, or thought is thus ſtaid by the <hi>Watch,</hi> then bring it to the <hi>Spiritual Touchſtone,</hi> for tryal, whether it be good or no; for oftentimes Satan and
+<pb n="12" facs="tcp:95481:7"/>
+Fleſh covers Vices under the names of Virtues, and will either extenuate or leſten a ſin, or elſe flouriſh it over with ſome zeal, or pretence of holineſs, therefore we muſt prove and try them in the <hi>Light of Chriſt:</hi> which the Apoſtle ſets forth by Examination and proof of a mans own work, 2 <hi>Cor.</hi> 13.5. <hi>Gal.</hi> 6.4. and thereby is ſeen what is accep<g ref="char:EOLhyphen"/>table to the Lord:<note place="margin">
+                  <hi>Epheſ.</hi> 5.10. <hi>Mal.</hi> 3.3.</note> For God by his Spiritual work cometh into a man, as a Refiner, to pu<g ref="char:EOLhyphen"/>rifie; and unto what ſtrength and heat the Spiritual fire in thee is come, ſo is the <hi>melting, trying, and re<g ref="char:EOLhyphen"/>fining within,</hi> upon the proof of thy actions, and taking away of droſs and filth: yea note in words themſelves, how ſome<g ref="char:EOLhyphen"/>times they are too many, ſometimes unſound and untrue, ſome<g ref="char:EOLhyphen"/>times too ſhort, in telling but half a truth <hi>&amp;c.</hi> Therefore let them firſt be tried by the <hi>Spiritual Touchſtone,</hi> before they pro<g ref="char:EOLhyphen"/>ceed out of thy mouth, whether they are pure or impure.</p>
+            <p>
+               <hi>Thirdly,</hi> Uſe the <hi>Spiritual Scales,</hi> to weigh, ponder, or conſider all things to be ſpoken or done, before they paſs from thee; for man durſt not let ſo many filthy words drop from his tongue, if firſt they were weighed and conſidered within at the Heart. <hi>Yea</hi> and <hi>Nay, Yes</hi> and <hi>No,</hi> muſt be the ſame as they are ſpoken, and ſo ſpeak the ſame thing intended, and pretended; for otherwiſe you are <hi>Lyars,</hi> and <hi>Lyars are for the Lake,</hi>
+               <note place="margin">
+                  <hi>Rev.</hi> 21.8. <hi>Rev.</hi> 22.15.</note> to be amongſt, <hi>Doggs</hi> and <hi>Whoremongers without.</hi> Yet with many, <hi>Lying</hi> is common, who have not learned to ſpeak the ſame thing intended; as if you ask them, <hi>to eat, to drink, to tarry,</hi> &amp;c. they will ſay <hi>No;</hi> yet deſire them again and they will accept it; ſo here they are <hi>Lyars.</hi> Some in Scoffs and Mocks, think it is witty to ſpeak a <hi>Lye</hi> in Jeſt; others being asked the truth of a thing, will ſometimes flouriſh and enlarge it, making the ſame too much, or too little, as in Praiſing or diſpraiſing, in buying or ſelling, and account themſelves expert dealers, and cunning Chapmen, becauſe they can uſe their tongues for advantage; whereas they are but Lyars in it; and ſuch know not what a <hi>Spiritual Watch</hi> meaneth: Therefore know, that in all ſuch eſtates, ye are quite out of the good old way, or way of truth; and remem<g ref="char:EOLhyphen"/>ber, If any ſuch ſeem Religious, yet they are not ſo, ſeeing
+<pb n="13" facs="tcp:95481:7"/>
+their tongues are unbridled, not brought to the truth, and their Religion is vain or empty, <hi>Jam.</hi> 1.26. Yet becauſe you are ſuch, I do not ſay, you are damned; but declare your being captive in fleſhly <hi>Babylon,</hi> ſhewing from the Spirit of God, what muſt be done by you, if ye are ſaved.</p>
+            <p>If any are in Chriſt they are New Creatures, and there is a new Heaven and a new Earth in them for all the parts, members, faculties, and abilties, are put to a new uſe; the new heart, and new ſpirit is in them, ſo they ſpeak and act new things from that law of God written in their inward parts; and ſuch dare not vent their frothy words, as fleſh did for<g ref="char:EOLhyphen"/>merly, but now there is a killing of that; as <hi>Paul</hi> died dayly, 1 <hi>Cor.</hi> 15.31. ſo the New Creature dies dayly to ſin, he is dead as to act in ſin, but lively to Righteouſneſſe; where<g ref="char:EOLhyphen"/>as the Sinner is quick to ſin, but dead and dull in the things of God: So thou ſhalt ſee the difference of theſe Two Eſtates, betwixt Darkneſſe and Light, when thou comeſt to uſe the Spiritual Watch, Spiritual Touchſtone, and Spiritual Scales; according to thy meaſure in the growth of Grace, to know the power of an endleſs life within thee, working and effect<g ref="char:EOLhyphen"/>ing theſe things; and then thou mayeſt ſay, I now ſee what pure ſilence is, yea, then thou ſhalt benefit by <hi>Silent Meetings.</hi>
+            </p>
+            <p>And thoſe that are come to the pure ſilencing of fleſh, to bridle the tongue, to wreſtle with the ſpiritual wickedneſs in the high place of the heart,<note place="margin">
+                  <hi>Epheſ.</hi> 6.12. 2 <hi>Cor.</hi> 10.5. 1 <hi>Cor.</hi> 10.31.</note> that each thought may be brought into obedience unto Chriſt, and whatſoever they act, do all to the Glory of God; ſuch can witneſs the pow<g ref="char:EOLhyphen"/>er of Chriſt in them, and when he pleaſeth to call them by his Eternal Spirit to go forth as Miniſters, they can beſt declare what God hath revealed unto them; As the Man having the Devils caſt forth, publiſhed in <hi>Decapolis,</hi> how great things Je<g ref="char:EOLhyphen"/>ſus hath done for him, <hi>Mar.</hi> 5.20. wheareas they that preach by hear-ſay, and humane ſtudy, ſhew, they ſpeak not as the Spirit gives them utterance, but with the tongues of fleſh, from car<g ref="char:EOLhyphen"/>nal Apprehenſions: So that, when they preach unto the people it might be objected; Jeſus I know hath the Spirit, and <hi>Paul</hi> I know had it, <hi>Act.</hi> 19 15. but who are ye? upon what account
+<pb n="14" facs="tcp:95481:8"/>
+would ye conjure forth ſin out of others, who have not the True Spirit your ſelves?</p>
+            <p>Therefore let none aſſume or own any other Goſpel-Miniſters, than thoſe called forth by the Spirit of God, as Chriſt in Spirit, after his Reſurrection and Aſcenſion, confirmed the ſame, to lead them into all truth, and bring all things to their remembrence, as able Miniſters of the Spirit, and not of the Letter, 2 <hi>Cor.</hi> 3.6. as Carnal men do, who teach one another Humane Learning, and then ſell it for Divinity, forcing many to pay for it at a dear rate, even to ſpoiling of Goods, Impriſonment and cruelty.</p>
+            <p>But ſome will <hi>Object</hi> their Non-Scripture Diſtinctions of Mediate, and Immediate, Ordinary, and Extraordinary, <hi>&amp;c.</hi> ſaying, <hi>That although the Apoctles were ſo called of God, yet they ordained others not ſo called; and ſo out of their carnall In<g ref="char:EOLhyphen"/>ventions they undertake to conſecrate or make Steeple-houſes, Maſſe-houſes, High-places, or the Tower-houſes to be Churches, and to be Holy-places, and fit men by their Arts and Degrees to preach in ſuch places,</hi> &amp;c.</p>
+            <p>
+               <hi>Anſw.</hi> All their pretences can no more make ſuch Places holy, than a heap of ſtones, nor add any more vertue thereby into the Pulpit than into a Tub: For God is <hi>worſhipped in Spirit and Truth:</hi>
+               <note place="margin">
+                  <hi>Gal.</hi> 1.18. <hi>John</hi> 4.23, 24. 1 <hi>Tim.</hi> 1.3. <hi>Mat.</hi> 16.17.</note> Nor are true Teachers to deliver any other Doctrine than what the Apoſtles did: Therefore ſee what Qualifications they were to have, 1 <hi>Tim.</hi> 32, &amp;c. <hi>Tit.</hi> 1.6, &amp;c. Now it is not fleſh and blood that reveals this unto them, nor the Tongues of Humane Learning which qualifies men thus for the Miniſtry, but the ſame Spirit of God: Therfore it is common to ſee thoſe ha<g ref="char:EOLhyphen"/>ving much humane Learning to be Great Perſecutors, and will not take up the Croſſe to follow Chriſt and ſo croſſe their own Luſts, Pride, Covetouſneſs, Envy and Filth, but give way unto it, by which means we find ſo many cruel Prieſts; for there is ſcarce any Perſecution of Saiants, but the Prieſts are chief Actors therein, either by inſtigating or acting.</p>
+            <p>Now conſider Friends, it was that charged on <hi>Thyatira,</hi> for ſuffering <hi>Jezebell,</hi> who called her ſelf a Propheteſſe, to teach and ſeduce the People, <hi>Rev.</hi> 2.20. So theſe Nationall Miniſters
+<pb n="15" facs="tcp:95481:8"/>
+call themſelves Divines, and Goſpell Miniſters, yet lead the People in Error; which we now ſeeing by the Light of Chriſt, if we do not diſcover, reprove, and oppoſe them therein, God will lay the ſame thing to our charge as he did unto <hi>Thyatira;</hi> For now Jeſus Chriſt will ſet up his own Miniſtry: And al<g ref="char:EOLhyphen"/>though he forbad not his Diſciples to hear the Scribes and Phariſees, <hi>Mat.</hi> 23.3. when the Law-Miniſtry was not ended; yet now having finiſhed that work in his fleſh, his Spiritual Mi<g ref="char:EOLhyphen"/>niſtry he hath ſet up to continue unto the end, and no other are we to hear. And this is the Teſtimony which the Lord hath called me to hold forth, Therefore hearken unto it.</p>
+            <closer>
+               <dateline>
+                  <date>The 23d Day of the 8th Month: 1660.</date>
+               </dateline>
+               <signed>William Britten.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <head>Concerning Gathering in the Name of Jeſus.</head>
+            <p>CHriſt Jeſus the <hi>Second Adam,</hi> who came amongſt the Sons of <hi>Fallen Adam,</hi> you may ſee the beginning of his ſet<g ref="char:EOLhyphen"/>ting up his <hi>Meetings,</hi> when he ſaith, <hi>Where two or three are gathered together in my Name, I am in the middeſt of them:</hi> ſo you ſee here Chriſt begins with a few, two or three, for there was the gathering of the <hi>Jews, Scribes</hi> and <hi>Phariſees,</hi> their <hi>Temple</hi> and <hi>Synagogues:</hi> and likewiſe there was the gathering of the Heathen to <hi>Dianas Temple:</hi> And all them that gathered in the Name of Jeſus, came from the Jews Synagogue and Temple, and likewiſe the <hi>Gentiles,</hi> into the Name of Jeſus; for they who are gathered in the Name of Jeſus, <hi>whoſe Name is above every name, and there is no Sal<g ref="char:EOLhyphen"/>vation by any other name under the whole Heaven, but by the Name of Jeſus,</hi> into which the gathering is, where all know their Salvation; and ſo who are gathered into the Name of Jeſus, are gathered into the Power and Authority. For you know when a Tax or Aſſeſſment is gathered in the name
+<pb n="16" facs="tcp:95481:9" rendition="simple:additions"/>
+of the Head, or Heads of a Nation, it comes in Power and Authority, that you obey it either actively or paſſively.</p>
+            <p>And ſo who are gathered in the Name of Jeſus, they are ga<g ref="char:EOLhyphen"/>thered in the Power, the <hi>Second Adam,</hi> whoſe Power and Au<g ref="char:EOLhyphen"/>thority is above the Power of the <hi>firſt Adams</hi> Sons and Daugh<g ref="char:EOLhyphen"/>ters; by which Power, and in whoſe name their People are gathered: But Chriſt, <hi>whoſe Name is above every name, and there is no Salvation by any other Name under Heaven, but by the Name of Jeſus;</hi> and they that be gathered in this Name of Jeſus, by the Power in which they know their Salvation, and they do ſee there is no Salvation by any other Name un<g ref="char:EOLhyphen"/>der the whole Heaven, nor gathering by which they gather, they bid farewel to all other names and gatherings under Hea<g ref="char:EOLhyphen"/>ven, as knowing <hi>there is no Salvation but in the Name of Jeſus.</hi> And this fulfils <hi>Jacobs</hi> Propheſie, who ſaith, <hi>The Law ſhall not depart from between Judahs feet, until Shilo come; and the gather<g ref="char:EOLhyphen"/>ing of all Nations ſhall be unto him:</hi> So then its clear, if the ga<g ref="char:EOLhyphen"/>thering of all Nations be unto Chriſt, they muſt forſake all that, into which they were gathered: And therefore that makes all the Heads of the National Wayes to be angry, that holds them up; and therefore with ſuch, <hi>The Lamb makes War in Righteouſneſs, going on Conquering and to Conquer, that he may Rule whoſe Right it is, that he might ſubdue all things to himſelf;</hi> in whoſe Name all things are to be done, and in whom all People are to be gathered, whom <hi>God hath given for Salva<g ref="char:EOLhyphen"/>tion to the ends of the Earth.</hi> And likewiſe this doth fulfil <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> Propheſie, who ſaid, <hi>Like unto me will God raiſe up a Pro<g ref="char:EOLhyphen"/>phet, whom in all things the People ſhall hear, who is the Salvati<g ref="char:EOLhyphen"/>on to the ends of the Earth, to whom the Gathering of all Nations muſt be:</hi> And they who be gathered in his Name, do and muſt hear him in all things, <hi>by whom all things were made and cre<g ref="char:EOLhyphen"/>ated, who was glorified with the Father before the World began.</hi>
+            </p>
+            <closer>
+               <signed>G. F.</signed>
+            </closer>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+   </text>
+</TEI>
